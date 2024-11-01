@@ -60,11 +60,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pc\\source\\repos\\practice2\\practice2\\practice2.csproj",
+      "projectUniqueName": "C:\\Users\\pc\\OneDrive\\Masaüstü\\SerializerTask\\SerializerTask\\practice2\\practice2.csproj",
       "projectName": "practice2",
-      "projectPath": "C:\\Users\\pc\\source\\repos\\practice2\\practice2\\practice2.csproj",
+      "projectPath": "C:\\Users\\pc\\OneDrive\\Masaüstü\\SerializerTask\\SerializerTask\\practice2\\practice2.csproj",
       "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pc\\source\\repos\\practice2\\practice2\\obj\\",
+      "outputPath": "C:\\Users\\pc\\OneDrive\\Masaüstü\\SerializerTask\\SerializerTask\\practice2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",

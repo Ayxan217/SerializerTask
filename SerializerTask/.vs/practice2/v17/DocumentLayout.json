@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\pc\\source\\repos\\practice2\\",
+  "WorkspaceRootPath": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\SerializerTask\\SerializerTask\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EF7CE2E7-AE76-44B9-BAE2-13D4005713E0}|practice2\\practice2.csproj|c:\\users\\pc\\source\\repos\\practice2\\practice2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF7CE2E7-AE76-44B9-BAE2-13D4005713E0}|practice2\\practice2.csproj|solutionrelative:practice2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF7CE2E7-AE76-44B9-BAE2-13D4005713E0}|practice2\\practice2.csproj|c:\\users\\pc\\source\\repos\\practice2\\practice2\\data\\customer.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{EF7CE2E7-AE76-44B9-BAE2-13D4005713E0}|practice2\\practice2.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\serializertask\\serializertask\\practice2\\data\\customer.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{EF7CE2E7-AE76-44B9-BAE2-13D4005713E0}|practice2\\practice2.csproj|solutionrelative:practice2\\data\\customer.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EF7CE2E7-AE76-44B9-BAE2-13D4005713E0}|practice2\\practice2.csproj|c:\\users\\pc\\source\\repos\\practice2\\practice2\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EF7CE2E7-AE76-44B9-BAE2-13D4005713E0}|practice2\\practice2.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\serializertask\\serializertask\\practice2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF7CE2E7-AE76-44B9-BAE2-13D4005713E0}|practice2\\practice2.csproj|solutionrelative:practice2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF7CE2E7-AE76-44B9-BAE2-13D4005713E0}|practice2\\practice2.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\serializertask\\serializertask\\practice2\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EF7CE2E7-AE76-44B9-BAE2-13D4005713E0}|practice2\\practice2.csproj|solutionrelative:practice2\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,13 +30,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "customer.json",
-              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\practice2\\practice2\\Data\\customer.json",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\SerializerTask\\SerializerTask\\practice2\\Data\\customer.json",
               "RelativeDocumentMoniker": "practice2\\Data\\customer.json",
-              "ToolTip": "C:\\Users\\pc\\source\\repos\\practice2\\practice2\\Data\\customer.json",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\SerializerTask\\SerializerTask\\practice2\\Data\\customer.json",
               "RelativeToolTip": "practice2\\Data\\customer.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAADIAQAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-10-31T14:05:00.918Z",
               "EditorCaption": ""
@@ -45,24 +45,24 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Customer.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\practice2\\practice2\\Customer.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\SerializerTask\\SerializerTask\\practice2\\Customer.cs",
               "RelativeDocumentMoniker": "practice2\\Customer.cs",
-              "ToolTip": "C:\\Users\\pc\\source\\repos\\practice2\\practice2\\Customer.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\SerializerTask\\SerializerTask\\practice2\\Customer.cs",
               "RelativeToolTip": "practice2\\Customer.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAiwBEAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAGYAAAAAAAAAAAA1wHAAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-31T13:40:14.499Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\practice2\\practice2\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\SerializerTask\\SerializerTask\\practice2\\Program.cs",
               "RelativeDocumentMoniker": "practice2\\Program.cs",
-              "ToolTip": "C:\\Users\\pc\\source\\repos\\practice2\\practice2\\Program.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\SerializerTask\\SerializerTask\\practice2\\Program.cs",
               "RelativeToolTip": "practice2\\Program.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAA5wDgAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAADwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-31T13:37:55.304Z",
               "EditorCaption": ""

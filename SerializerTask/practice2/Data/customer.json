@@ -1,1 +1,39 @@
-[{"Id":1,"FirstName":"Nurane","LastName":"Veliyeva","PhoneNumber":"042395043"},{"Id":2,"FirstName":"eli","LastName":"Veliyeva","PhoneNumber":"042395043"},{"Id":3,"FirstName":"huseyn","LastName":"Veliyeva","PhoneNumber":"042395043"},{"Id":4,"FirstName":"david","LastName":"Veliyeva","PhoneNumber":"042395043"},{"Id":6,"FirstName":"Ayxan","LastName":"memmedli","PhoneNumber":"3425"},{"Id":7,"FirstName":"John","LastName":"Roobinson","PhoneNumber":"3425116"}]
+[
+  {
+    "Id": 1,
+    "FirstName": "Nurane",
+    "LastName": "Veliyeva",
+    "PhoneNumber": "042395043"
+  },
+  {
+    "Id": 2,
+    "FirstName": "eli",
+    "LastName": "Veliyeva",
+    "PhoneNumber": "042395043"
+  },
+  {
+    "Id": 3,
+    "FirstName": "huseyn",
+    "LastName": "Veliyeva",
+    "PhoneNumber": "042395043"
+  },
+  {
+    "Id": 4,
+    "FirstName": "david",
+    "LastName": "Veliyeva",
+    "PhoneNumber": "042395043"
+  },
+  {
+    "Id": 6,
+    "FirstName": "Ayxan",
+    "LastName": "memmedli",
+    "PhoneNumber": "3425"
+  },
+  {
+    "Id": 7,
+    "FirstName": "John",
+    "LastName": "Roobinson",
+    "PhoneNumber": "3425116"
+  }
+]
+
